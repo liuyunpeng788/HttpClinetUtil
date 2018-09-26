@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fonova.ml.nlpbase:textclusteringcws:1.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fonova/ml/nlpbase/textclusteringcws/1.0.1-SNAPSHOT/textclusteringcws-1.0.1-20170602.015718-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fonova/ml/nlpbase/textclusteringcws/1.0.1-SNAPSHOT/textclusteringcws-1.0.1-20170602.015718-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fonova/ml/nlpbase/textclusteringcws/1.0.1-SNAPSHOT/textclusteringcws-1.0.1-20170602.015718-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

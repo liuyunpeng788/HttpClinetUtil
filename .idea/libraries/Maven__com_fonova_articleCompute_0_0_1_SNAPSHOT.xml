@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fonova:articleCompute:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fonova/articleCompute/0.0.1-SNAPSHOT/articleCompute-0.0.1-20170706.072214-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fonova/articleCompute/0.0.1-SNAPSHOT/articleCompute-0.0.1-20170706.072214-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fonova/articleCompute/0.0.1-SNAPSHOT/articleCompute-0.0.1-20170706.072214-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

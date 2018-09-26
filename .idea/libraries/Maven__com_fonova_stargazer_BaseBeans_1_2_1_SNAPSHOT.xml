@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fonova.stargazer:BaseBeans:1.2.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fonova/stargazer/BaseBeans/1.2.1-SNAPSHOT/BaseBeans-1.2.1-20170414.013627-14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fonova/stargazer/BaseBeans/1.2.1-SNAPSHOT/BaseBeans-1.2.1-20170414.013627-14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fonova/stargazer/BaseBeans/1.2.1-SNAPSHOT/BaseBeans-1.2.1-20170414.013627-14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
