@@ -1,4 +1,3 @@
-package com.fonova.stargazer.accountops.utils;
 
 import com.fonova.stargazer.exception.StargazerException;
 import org.apache.http.HttpResponse;
